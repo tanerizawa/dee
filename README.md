@@ -16,6 +16,10 @@ This repository contains experimental code and documentation for the **Dear Diar
 2. The server processes text with AI models and returns advice.
 3. Data storage and user authentication are handled on the backend.
 
+## Development Phases
+The project roadmap includes several stages. See [docs/fase1-system-design.md](docs/fase1-system-design.md)
+for details about the first phase covering system design and architecture.
+
 ## Getting Started
 
 ### Clone the repository
