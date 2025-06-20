@@ -17,8 +17,9 @@ This repository contains experimental code and documentation for the **Dear Diar
 3. Data storage and user authentication are handled on the backend.
 
 ## Development Phases
-The project roadmap includes several stages. See [docs/fase1-system-design.md](docs/fase1-system-design.md)
-for details about the first phase covering system design and architecture.
+The project roadmap mencakup beberapa tahapan:
+1. [Fase 0](docs/fase0-foundation-planning.md) - fondasi dan perencanaan awal.
+2. [Fase 1](docs/fase1-system-design.md) - desain sistem dan arsitektur.
 
 ## Getting Started
 
