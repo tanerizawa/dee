@@ -27,7 +27,7 @@ cd dee
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt  # To be added
+pip install -r requirements.txt  
 ```
 
 ### Android environment
