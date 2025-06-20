@@ -37,15 +37,16 @@ pip install -r requirements.txt
 ### Running the application
 - **Backend**
   ```bash
-  uvicorn app.main:app --reload  # Placeholder path
+  uvicorn app.main:app --reload
   ```
 - **Android app**
   ```bash
+  cd android-app
   ./gradlew installDebug
   adb shell am start -n com.example.diary/.MainActivity
   ```
 
-These commands are placeholders until the app code is added.
+These commands assume the backend lives in `app/` and the Android project in `android-app/`.
 
 ## License
 MIT
